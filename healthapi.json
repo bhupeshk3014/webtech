@@ -1,0 +1,19 @@
+{
+    "pieChartData": {
+        "NutritionBreakdown": {
+            "Protein": 30,
+            "Carbohydrates": 40,
+            "Fat": 20,
+            "Fiber": 5,
+            "Vitamins": 5
+        }
+    },
+    "tableData": {
+        "healthMetrics": [
+            { "category": "Blood Pressure", "value": "120/80 mmHg" },
+            { "category": "Heart Rate", "value": "60 bpm" },
+            { "category": "Blood Sugar", "value": "90 mg/dL" },
+            { "category": "Cholesterol", "value": "150 mg/dL" }
+        ]
+    }
+}
